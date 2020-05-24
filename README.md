@@ -1,7 +1,6 @@
 # Mapas-mentais
-Mapas mentais para estudo de programação
 
-  Esse repositório contém os mapas mentais que utilizo nos meus estudos.
+  Esse repositório contém os mapas mentais que utilizo nos meus estudos em programação, sendo eles:
   
   - Java | Algoritmos
   - HTML
