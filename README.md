@@ -1,6 +1,6 @@
 # Mapas-mentais
 
-Este repositório conterá os mapas mentais que utilizo nos meus estudos de programação, sendo eles:  
+Mapas mentais que utilizo nos meus estudos de programação, sendo eles:  
   
 Tópico | Link
 :--:|:-------:
