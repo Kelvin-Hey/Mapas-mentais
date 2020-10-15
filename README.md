@@ -1,7 +1,8 @@
 # Mapas-mentais
-
+<hr>
 Mapas mentais que utilizo nos meus estudos de programação, sendo eles:  
-  
+<hr>
+
 Tópico | Link
 :--:|:-------:
 Algoritmos|[Mapa Mental](https://www.mindmeister.com/pt/1500297355/java-algoritimos) 
